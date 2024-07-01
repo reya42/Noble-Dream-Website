@@ -7,10 +7,9 @@ You can login to your account or register a new account and if you support the c
 ### Quick Preview Of The Website On Youtube
 [![](https://img.youtube.com/vi/YnwGsjf2mao/0.jpg)](https://www.youtube.com/watch?v=YnwGsjf2mao)
 
+## How to test on your local
+
 <details>
-  <summary>
-    ## How to test on your local
-  </summary>
   
   ### Frontend
   
@@ -28,10 +27,10 @@ You can login to your account or register a new account and if you support the c
   
   -  You need visual studio to open backend
 </details>
+
+
+## What I Learned
 <details>
-  <summary>
-    ## What I Learned
-  </summary>
   
   -  I learned how to create a project with react js
   -  I learned the basics and structure of a common react js project
