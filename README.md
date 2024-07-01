@@ -41,7 +41,7 @@ You can login to your account or register a new account and if you support the c
   -  & A bunch more
 </details>
 
-### Quick thanks
+## Quick thanks
 Thanks to aenami art for her beautifully designed backgrounds my website became more colorfull.
 
 Follow her on art station: https://www.artstation.com/aenamiart
