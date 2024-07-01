@@ -30,3 +30,4 @@ You can login to your account or register a new account and if you support the c
 -  I learned to async react js with backend
 -  I learned to create simple .net backend projects
 -  I learned to use Microsoft Sql Server Management Studio
+-  & A bunch more
