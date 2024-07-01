@@ -42,7 +42,7 @@ You can login to your account or register a new account and if you support the c
 </details>
 
 ## Quick thanks
-Thanks to aenami art for her beautifully designed backgrounds which made my website became more colorfull.
+Thanks to aenami art for her beautifully designed backgrounds which made my website became more colorful.
 
 Follow her on art station: https://www.artstation.com/aenamiart
 
