@@ -5,8 +5,8 @@ Main focus of the website is introduce Noble Dream Company which is not a real c
 You can login to your account or register a new account and if you support the company for so long time you can actually get a discount or full game key. Again it is not real and i designed it to randomly generate a key.
 
 <details><summary>Gallery</summary>
-[![](https://img.youtube.com/vi/YnwGsjf2mao/0.jpg)](https://www.youtube.com/watch?v=YnwGsjf2mao)
-
+![](https://img.youtube.com/vi/YnwGsjf2mao/0.jpg)](https://www.youtube.com/watch?v=YnwGsjf2mao)
+</details>details>
 
 ## How to test on your local
 
