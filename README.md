@@ -6,7 +6,7 @@ You can login to your account or register a new account and if you support the c
 
 <details><summary>Gallery</summary>
 ![](https://img.youtube.com/vi/YnwGsjf2mao/0.jpg)](https://www.youtube.com/watch?v=YnwGsjf2mao)
-</details>details>
+</details>
 
 ## How to test on your local
 
