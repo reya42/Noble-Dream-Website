@@ -20,7 +20,13 @@ You can login to your account or register a new account and if you support the c
 
 ### Backend
 
-1. You need visual studio to open backend
-2. 
+-  You need visual studio to open backend
 
 ## What I Learned
+
+-  I learned how to create a project with react js
+-  I learned the basics and structure of a common react js project
+-  I learned how to use tailwind to create visually appealing websites as fast as possible
+-  I learned to async react js with backend
+-  I learned to create simple .net backend projects
+-  I learned to use Microsoft Sql Server Management Studio
