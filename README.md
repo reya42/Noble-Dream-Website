@@ -31,3 +31,8 @@ You can login to your account or register a new account and if you support the c
 -  I learned to create simple .net backend projects
 -  I learned to use Microsoft Sql Server Management Studio
 -  & A bunch more
+
+### Quick thanks
+Thanks to aenami art for her beautifully designed backgrounds my website became more colorfull.
+Follow her on art station: https://www.artstation.com/aenamiart
+Thanks to ifreex for his beautifull orbitals drawing one of the dreamed game visualized correctly. 
