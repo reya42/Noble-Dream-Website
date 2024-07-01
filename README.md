@@ -40,6 +40,7 @@ You can login to your account or register a new account and if you support the c
   -  I learned to use Microsoft Sql Server Management Studio
   -  & A bunch more
 </details>
+
 ### Quick thanks
 Thanks to aenami art for her beautifully designed backgrounds my website became more colorfull.
 
