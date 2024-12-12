@@ -32,11 +32,11 @@
 
 .background-animate {
   background-size: 500%;
-  -webkit-animation: AnimationName 3s ease infinite;  
-  -moz-animation: AnimationName 3s ease infinite;
-  animation: AnimationName 3s ease infinite;
+  -webkit-animation: BGAnim 3s ease infinite;  
+  -moz-animation: BGAnim 3s ease infinite;
+  animation: BGAnim 3s ease infinite;
 }
-@keyframes AnimationName {
+@keyframes BGAnim {
   0%,
   100% {
     background-position: 0% 50%;
